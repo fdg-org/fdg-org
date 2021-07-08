@@ -1,0 +1,2 @@
+If you are fighting against the borrow checker, you are doing it wrong.
+The right way is to fight together with the borrow checker for security.
