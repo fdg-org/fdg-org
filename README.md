@@ -4,10 +4,11 @@
 - 💞️ I’m looking to collaborate on ... whatever I want to
 - 📫 How to reach me ... you guess :-)
 
+<br>
 
-About Rust:
-If you are fighting against the borrow checker, you are doing it wrong.
-The right way is to fight together with the borrow checker for security.
+About Rust:<br>
+If you are fighting against the borrow checker, you are doing it wrong.<br>
+The right way is to fight together with the borrow checker for security.<br>
 
 
 
