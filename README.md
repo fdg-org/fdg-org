@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fdg-org
-- 👀 I’m interested in ... too much :-)
+- 👀 I’m interested in ... User Interfaces (https://en.wikipedia.org/wiki/User_interface)
 - 🌱 I’m currently learning ... the programming language named Rust (not to mix up with Mathias Rust)
 - 💞️ I’m looking to collaborate on ... whatever I want to
 - 📫 How to reach me ... you guess :-)
