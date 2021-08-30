@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fdg-org on GitHub
+- 👋 Hi, I’m @fdg-org (on GitHub)
 - 👀 I’m interested in ... User Interfaces (https://en.wikipedia.org/wiki/User_interface)
 - 🌱 I’m currently learning ... the programming language named Rust (not to mix up with Mathias Rust [https://en.wikipedia.org/wiki/Mathias_Rust])
 - 💞️ I’m looking to collaborate on ... see above
